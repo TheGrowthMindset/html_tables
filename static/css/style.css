@@ -1,0 +1,9 @@
+.table{
+    text-align: center;
+    width: 100%vh;
+}
+
+body{
+    margin:0px auto;
+    width:1000px;
+}
